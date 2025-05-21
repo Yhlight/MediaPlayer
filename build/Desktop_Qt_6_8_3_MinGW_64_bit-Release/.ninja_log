@@ -1,0 +1,19 @@
+# ninja log v6
+2698	3290	7694579248096869	CMakeFiles/MusicPlayer.dir/MusicPlayer_autogen/LYI5KOYLNB/qrc_image.cpp.obj	e8dc9dc8231d2f82
+7	646	7695243558983777	D:/yhprogram/QtProject/MusicPlayer/build/Desktop_Qt_6_8_3_MinGW_64_bit-Release/MusicPlayer_autogen/mocs_compilation.cpp	aef34e2d82e63ca1
+7	646	7695243558983777	MusicPlayer_autogen/mocs_compilation.cpp	aef34e2d82e63ca1
+7	646	7695243558983777	MusicPlayer_autogen/timestamp	aef34e2d82e63ca1
+7	646	7695243558983777	D:/yhprogram/QtProject/MusicPlayer/build/Desktop_Qt_6_8_3_MinGW_64_bit-Release/MusicPlayer_autogen/timestamp	aef34e2d82e63ca1
+1448	1900	7694579240000261	MusicPlayer_autogen/LYI5KOYLNB/qrc_image.cpp	236ea80983af8cb1
+1448	1900	7694579240000261	D:/yhprogram/QtProject/MusicPlayer/build/Desktop_Qt_6_8_3_MinGW_64_bit-Release/MusicPlayer_autogen/LYI5KOYLNB/qrc_image.cpp	236ea80983af8cb1
+1230	3917	7694997551349418	CMakeFiles/MusicPlayer.dir/MusicPlayer_autogen/mocs_compilation.cpp.obj	c6cd2bffbdc35572
+2064	4341	7694579241762598	CMakeFiles/MusicPlayer.dir/main.cpp.obj	ddafa806898a2044
+814	2654	7695241670565125	CMakeFiles/MusicPlayer.dir/MediaWidget.cpp.obj	4385c3b391d6ab10
+2289	4369	7694579244020652	CMakeFiles/MusicPlayer.dir/ButtonWidget.cpp.obj	ae97a26352ac41c9
+600	2363	7694595892439449	CMakeFiles/MusicPlayer.dir/VolumeWidget.cpp.obj	625ae228f7f2b69f
+647	3648	7695243565382326	CMakeFiles/MusicPlayer.dir/MainWidget.cpp.obj	48de9e20082a8a08
+795	3124	7694594469571997	CMakeFiles/MusicPlayer.dir/ListWidget.cpp.obj	17f063adf7c70712
+3648	4248	7695243595396020	MusicPlayer.exe	3e81114bd02b3e5a
+880	2770	7694583100975490	CMakeFiles/MusicPlayer.dir/ProgressBarWidget.cpp.obj	c48b1d5fe5690d3e
+1926	4618	7694036492022021	CMakeFiles/MusicPlayer.dir/VideoWidget.cpp.obj	2b2071b6159c27e5
+897	3037	7695008151610246	CMakeFiles/MusicPlayer.dir/VideoWidgetEventFilter.cpp.obj	7ad18cce24f74f39
